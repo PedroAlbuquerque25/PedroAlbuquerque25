@@ -40,7 +40,7 @@ I recently completed a **Data Science Bootcamp at TripleTen**, where I built end
 
 ### 📈 GitHub Stats:
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroAlbuquerque25&show_icons=true)
+![Pedro's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PedroAlbuquerque25&show_icons=true&theme=default)
 
 ### 📫 Let's Connect:
 
