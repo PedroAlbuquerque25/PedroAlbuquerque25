@@ -1,10 +1,8 @@
 # Hi, I'm Pedro Albuquerque! 👋
 
-### Business-Driven Data Analyst | 14+ Years of Operational & Analytics Experience
+### Data Science | Business-Driven | Data Analyst | BI Specialist | Python | SQL | Power BI | Machine Learning
 
-With over **14 years of experience** combining operational leadership and advanced analytics, I specialize in transforming raw data into actionable insights that drive strategic decisions, improve efficiency, and boost profitability.
-
-I recently completed a **Data Science Bootcamp at TripleTen**, where I built end-to-end analytical projects - from data cleaning and exploratory analysis to machine learning models and dashboard automation. My edge is bridging the gap between business operations and data: I don't just analyze numbers, I understand the business context behind them.
+I transform raw datasets into high-impact insights by combining technical rigor with deep domain expertise in Business Operations. My focus is building data solutions that don't just "show numbers," but solve bottlenecks and drive revenue.
 
 ---
 
