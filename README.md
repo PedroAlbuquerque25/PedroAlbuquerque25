@@ -29,10 +29,11 @@ I transform raw datasets into high-impact insights by combining technical rigor 
 
 ### 🚀 Featured Projects:
 
-* **[Customer Churn Prediction](https://github.com/PedroAlbuquerque25/beta-bank-churn-prediction)** - Developed a classification model using Random Forest to identify at-risk customers, achieving an F1-score of 0.60.
+* **[Credit Risk Intelligence](https://github.com/PedroAlbuquerque25/credit_risk_Intelligence)** - Developed a scoring system using Logistic Regression and Decision Trees to predict loan defaults. Focused on balancing the trade-off between credit approval rates and financial risk to optimize portfolio profitability.
 
-* **[Oil Well Profitability Analysis](https://github.com/PedroAlbuquerque25/oilygiant-region-analysis)** - Built a Linear Regression model with 1,000 bootstrap simulations to project $4.49M in profit while keeping financial risk at 1.7%.
+* **[Customer Churn Prediction](https://github.com/PedroAlbuquerque25/beta-bank-churn-prediction)** - Built a classification model using Random Forest to identify at-risk customers, achieving an F1-score of 0.60 and providing actionable insights for retention strategies.
 
+* **[Oil Well Profitability Analysis](https://github.com/PedroAlbuquerque25/oilygiant-region-analysis)** - Implemented a Linear Regression model with 1,000 bootstrap simulations to project $4.49M in profit while quantifying and limiting financial risk to 1.7%.
 ---
 
 ### 📊 Key Focus Areas:
