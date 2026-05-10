@@ -56,4 +56,4 @@ I transform raw datasets into high-impact insights by combining technical rigor 
 
 * **Email:** pedro.albuquerque01@gmail.com
 
-*"14 years building operations. Now building the data layer behind smarter decisions."*
+*"Combining business expertise with data science to build smarter decisions."*
