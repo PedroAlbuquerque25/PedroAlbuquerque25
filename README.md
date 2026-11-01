@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Albuquerque! 👋
 
-### Data Science | Business-Driven | Data Analyst | BI Specialist | Python | SQL | Power BI | Machine Learning
+### Data Analyst | Marketing Analyst | Business Intelligence (BI) | SQL, Python, Power BI, Tableau, GA4 | E-commerce, Funnel Optimization (CRO), A/B Testing & Revenue Growth
 
 I transform raw datasets into high-impact insights by combining technical rigor with deep domain expertise in Business Operations. My focus is building data solutions that don't just "show numbers," but solve bottlenecks and drive revenue.
 
